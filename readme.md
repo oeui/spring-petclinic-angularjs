@@ -1,5 +1,7 @@
 # AngularJS and Spring Boot version of the Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic-angularjs.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic-angularjs/)
 
+[![Code Climate](https://codeclimate.com/github/oeui/spring-petclinic-angularjs/badges/gpa.svg)](https://codeclimate.com/github/oeui/spring-petclinic-angularjs)
+[![Issue Count](https://codeclimate.com/github/oeui/spring-petclinic-angularjs/badges/issue_count.svg)](https://codeclimate.com/github/oeui/spring-petclinic-angularjs)
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
