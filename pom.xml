@@ -30,7 +30,7 @@
 	</dependencyManagement>
 
 	<build>
-		<plugins>
+        <plugins>
 			<plugin>
 				<groupId>com.spotify</groupId>
 				<artifactId>docker-maven-plugin</artifactId>
